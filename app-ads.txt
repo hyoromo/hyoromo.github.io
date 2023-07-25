@@ -404,3 +404,11 @@ openx.com, 540543195, RESELLER, 6a698e2ec38604c6
 pubmatic.com, 160145, RESELLER, 5d62403b186f2ace
 pubmatic.com, 161368, RESELLER, 5d62403b186f2ace
 sharethrough.com, iBAzay96, RESELLER, d53b998a7bd4ecd2
+applovin.com, 9eaf9ad6dc92d5fcn6f47c30168fb8fq, DIRECT
+mintegral.com, 19435, DIRECT, 0aeed123c80d6423
+google.com, pub-3940498599942544, DIRECT, f08c47fec0986fa0
+adcolony.com, 197af3936679d34e, RESELLER, 1ad675c9de6b5176
+loopme.com, 11303, RESELLER, 6c8d5f95897a5a3b
+pubmatic.com, 158862, RESELLER, 5d62403b186f2ace
+pubmatic.com, 159509, RESELLER, 5d62403b186f2ace
+media.net, 8CUD06Z68, RESELLER
